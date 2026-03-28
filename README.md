@@ -1,12 +1,10 @@
-## blog：C++/Linux/Chip
-
-:balloon: :balloon: :balloon: :balloon: :balloon: :balloon:
+## 清华numbda时光记  :balloon:
 
 ## 一、编程技术        
 
-  > [Qt的mac+vscode+qt安装配置手册](https://github.com/Seasons123/blog--C-Qt-Linux/issues/1)
+  > [qt的mac+vscode安装配置手册](https://github.com/Seasons123/blog--C-Qt-Linux/issues/1)
 
-  > [java 经典算法](https://github.com/Seasons123/blog-JAVA-ML)
+  > [java经典算法](https://github.com/Seasons123/blog-JAVA-ML)
 
  
  ## 二、阅读笔记
@@ -23,4 +21,4 @@
 
   > [《详解FPGA：人工智能时代的驱动引擎》](https://github.com/Seasons123/blog-C_Linux_Chip/issues/7)
 
-
+ ## 三、[学术成果](https://github.com/Seasons123/blog-Chip/issues/8)
