@@ -1,4 +1,4 @@
-## 清华numbda时光记  :balloon:
+## Tsinghua Numbda 时光记  :balloon:
 
 ## 一、编程技术        
 
