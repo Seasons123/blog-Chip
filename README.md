@@ -1,4 +1,3 @@
-## Tsinghua Numbda :balloon:
 
 ## 一、编程技术        
 
@@ -21,5 +20,6 @@
   > [DeepSeek技术原理与未来方向](https://github.com/Seasons123/blog-C_Linux_Chip/issues/6)
 
   > [《详解FPGA：人工智能时代的驱动引擎》](https://github.com/Seasons123/blog-C_Linux_Chip/issues/7)
+ 
+  > [附：论文集](https://github.com/Seasons123/blog-Chip/issues/8)
 
- ## 三、[论文](https://github.com/Seasons123/blog-Chip/issues/8)
