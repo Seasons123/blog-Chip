@@ -1,4 +1,4 @@
-## Tsinghua Numbda 时光记  :balloon:
+## Tsinghua Numbda :balloon:
 
 ## 一、编程技术        
 
@@ -22,4 +22,4 @@
 
   > [《详解FPGA：人工智能时代的驱动引擎》](https://github.com/Seasons123/blog-C_Linux_Chip/issues/7)
 
- ## 三、[学术成果](https://github.com/Seasons123/blog-Chip/issues/8)
+ ## 三、[论文](https://github.com/Seasons123/blog-Chip/issues/8)
