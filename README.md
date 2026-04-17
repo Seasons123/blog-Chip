@@ -5,7 +5,7 @@
 
   > [java经典算法](https://github.com/Seasons123/blog-JAVA-ML)
 
-  > [0人工Coding，告别古法编程](https://mp.weixin.qq.com/s/Tq0sW8uorXh0kfcNF3blXg)
+  > [AI Native研发实战手册](https://mp.weixin.qq.com/s/Tq0sW8uorXh0kfcNF3blXg)
  
  ## 二、阅读笔记
 
