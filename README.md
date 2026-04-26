@@ -1,5 +1,5 @@
 
-## 编程技术        
+## 编程思想       
 
   > [软件工程能力漫谈](https://github.com/Seasons123/blog--C-Qt-Linux/issues/3)
 
@@ -21,7 +21,5 @@
 
   > [《详解FPGA：人工智能时代的驱动引擎》](https://github.com/Seasons123/blog-C_Linux_Chip/issues/7)
  
-## 学术论文
-
   > [论文集](https://github.com/Seasons123/blog-Chip/issues/8)
 
