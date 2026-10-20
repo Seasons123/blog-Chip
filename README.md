@@ -19,5 +19,5 @@
 
   > [DeepSeek技术原理与未来方向](https://github.com/Seasons123/blog-C_Linux_Chip/issues/6)
 
-  > [论文集](https://github.com/Seasons123/blog-Chip/issues/8)
+  > [从图划分到时序收敛(部分参考资料)](https://github.com/Seasons123/blog-Chip/issues/8)
 
